@@ -2,8 +2,7 @@
 Projenin amaci, Web Programlama dersinde teorik ve pratik olarak öğrenilen bilgilerin, gerçek bir 
 probleme uygulanarak bu probleme çözüm üreten bir web projesi geliştirilmesidir.
  
-Ben öğrencilerin bireysel olarak kendilerini ve memleketlerini tanıtmaya yarayan dinamik olarak 
-içerik ve menü oluşturalabilecek, blog yazılarına yorum yapılabilen kişisel bir web sitesi 
+Ben kitaplara dair yazı ve yorumlardan oluşan bir blog sayfası yapmayı tercih ettim. 
 uygulaması geliştirmeyi tercih ettim
 
 Projede Kullanılacak Teknolojiler
