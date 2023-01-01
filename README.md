@@ -3,7 +3,6 @@ Projenin amaci, Web Programlama dersinde teorik ve pratik olarak öğrenilen bil
 probleme uygulanarak bu probleme çözüm üreten bir web projesi geliştirilmesidir.
  
 Ben kitaplara dair yazı ve yorumlardan oluşan bir blog sayfası yapmayı tercih ettim. 
-uygulaması geliştirmeyi tercih ettim
 
 Projede Kullanılacak Teknolojiler
 * Asp.Net Core 6 MVC yada Asp.Net Core 7 MVC
